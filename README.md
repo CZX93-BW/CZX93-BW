@@ -89,10 +89,11 @@ Ich arbeite gerne mit klaren Komponenten, kleinen Funktionen, nachvollziehbaren 
 
 ## GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CZX93-BW&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZX93-BW&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/CZX93-BW/CZX93-BW/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/CZX93-BW/CZX93-BW/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 
