@@ -97,7 +97,7 @@ Ich arbeite gerne mit klaren Komponenten, kleinen Funktionen, nachvollziehbaren 
 
 ## Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-codinity.de-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://bastian-wollny.de)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Bastian-Wollny.de-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://bastian-wollny.de)
 [![GitHub](https://img.shields.io/badge/GitHub-CZX93--BW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CZX93-BW)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bastian_Wollny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastian-wollny)
 [![Xing](https://img.shields.io/badge/Xing-Bastian_Wollny-006567?style=for-the-badge&logo=xing&logoColor=white)](#)
