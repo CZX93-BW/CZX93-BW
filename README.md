@@ -70,6 +70,7 @@ Mein Ziel: robuste Anwendungen entwickeln, die Menschen Arbeit abnehmen statt ne
 | **Portfolio-Webseite** | Persönliche Portfolio-Seite mit Angular, SCSS-Struktur und responsive Design | Angular, TypeScript, SCSS |
 | **Sharky** | Jump-and-Run / Unterwasser-Game mit Canvas-Logik und eigenem Spielsystem | JavaScript, HTML, CSS |
 | **Pokédex** | API-basiertes Frontend-Projekt mit Suche, Dialogen, Caching und Detailansichten | JavaScript, REST API |
+| **Join** | Eine responsive Fullstack-Anwendung zur strukturierten Planung, Zuweisung und Bearbeitung von Aufgaben im Team. | Angular, Typescript, SCSS, Supabase |
 
 
 ---
@@ -92,7 +93,7 @@ Ich arbeite gerne mit klaren Komponenten, kleinen Funktionen, nachvollziehbaren 
 | Bereich | Schwerpunkt |
 | --- | --- |
 | **Frontend** | HTML, CSS, SCSS, JavaScript, Angular, TypeScript |
-| **Backend** | PHP, SQL, Node.js Basics, REST APIs |
+| **Backend** |Python, Django, DRF, PHP, SQL-Lite, Supabase, SQL, Node.js Basics, REST APIs |
 | **Qualität** | Clean Code, Barrierefreiheit, responsive Layouts |
 | **Lernfokus** | Fullstack-Architektur, KI-Workflows, Automation |
 
@@ -111,6 +112,7 @@ Ich arbeite gerne mit klaren Komponenten, kleinen Funktionen, nachvollziehbaren 
 
 - Fullstack-Portfolio weiter ausbauen
 - Angular und TypeScript sauber vertiefen
+- Vertiefung von Python, Django und DRF
 - React und Node.js praxisnah stärken
 - KI-Tools und Automationen sinnvoll in Entwickler-Workflows integrieren
 - Bewerbungsreife Projekte mit echtem Qualitätsanspruch fertigstellen
