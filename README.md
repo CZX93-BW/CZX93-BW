@@ -22,41 +22,17 @@
 
 ---
 
+
 ## About me
 
-**IHK-certified IT Specialist in Application Development | Fullstack Software Developer**
+I'm an IHK-certified IT Specialist in Application Development, currently expanding my skills through professional fullstack training and practical software projects. What fascinates me about software development goes beyond writing code. I want to understand why something works, how different components interact, and what makes an application maintainable and adaptable over time.
 
-I'm currently expanding my fullstack skills through professional training, independent projects, and continuous experimentation with new technologies.
+My approach combines analytical thinking, creativity, and structured problem-solving. I enjoy questioning assumptions, exploring alternative solutions, and understanding the reasoning behind technical decisions. Software architecture is particularly important to me, especially when it comes to clear responsibilities, meaningful data flows, well-defined interfaces, and maintainable system structures.
 
-**What drives me**
+My experience ranges from Angular applications and object-oriented JavaScript projects to independently developed Django REST backends. I also gained initial experience with AI integration through my IHK final project. I'm continuously exploring new technologies, AI-driven workflows, and automation, while strengthening my understanding of software design and architecture.
 
-I don't just want to know that software works — **I want to understand why it works**. I'm fascinated by the way individual components interact and how thoughtful design decisions influence the reliability and maintainability of an application.
+I value clean code, constructive collaboration, continuous learning, and thoughtful technical decisions. I believe technologies are tools rather than limitations, and understanding fundamental principles is more valuable than being tied to a particular framework.
 
-**How I approach problems**
-
-I combine **analytical thinking, creativity, and a structured approach**. I enjoy exploring alternatives, questioning assumptions, and understanding the reasoning behind technical decisions.
-
-For me, development is about finding solutions that make sense — not simply choosing the most popular framework or the quickest implementation.
-
-**Architecture as a mindset**
-
-**Software architecture is one of my strongest interests.**
-
-Whether I'm designing REST APIs, structuring Angular applications, or modeling relational databases, I focus on clear responsibilities, understandable dependencies, and meaningful data flows.
-
-I prefer pragmatic architecture over unnecessary complexity.
-
-**What I'm building and learning**
-
-My projects range from interactive web applications and object-oriented JavaScript games to independently developed Django REST backends.
-
-I'm particularly interested in **AI integration, automation, and system design**. My IHK final project gave me initial practical experience developing an AI-powered application.
-
-**What matters to me**
-
-Clean code, constructive collaboration, continuous learning, and the willingness to explore unfamiliar technologies.
-
-**Technologies are tools, not boundaries.**
 
 ---
 
