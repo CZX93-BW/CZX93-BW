@@ -22,31 +22,22 @@
 
 ---
 
-
 ## About me
 
-I'm an IHK-certified IT Specialist in Application Development, currently expanding my skills through professional fullstack training and practical software projects. What fascinates me about software development goes beyond writing code. I want to understand why something works, how different components interact, and what makes an application maintainable and adaptable over time.
+I'm an **IHK-certified IT Specialist in Application Development**, currently expanding my fullstack experience through professional training and hands-on projects. Software development fascinates me because I want to understand not only how something works, but why it works and how its components interact.
 
-My approach combines analytical thinking, creativity, and structured problem-solving. I enjoy questioning assumptions, exploring alternative solutions, and understanding the reasoning behind technical decisions. Software architecture is particularly important to me, especially when it comes to clear responsibilities, meaningful data flows, well-defined interfaces, and maintainable system structures.
+My approach combines **analytical thinking, creativity, and structured problem-solving**. I enjoy exploring alternatives, questioning assumptions, and making well-reasoned technical decisions. I value solutions that remain understandable and maintainable beyond their initial implementation.
 
-My experience ranges from Angular applications and object-oriented JavaScript projects to independently developed Django REST backends. I also gained initial experience with AI integration through my IHK final project. I'm continuously exploring new technologies, AI-driven workflows, and automation, while strengthening my understanding of software design and architecture.
+**Software architecture is a particular interest of mine.** Whether I'm designing REST APIs, structuring Angular applications, or modeling databases, I focus on clear responsibilities, meaningful data flows, and well-defined interfaces. I prefer pragmatic design decisions over unnecessary complexity.
 
-I value clean code, constructive collaboration, continuous learning, and thoughtful technical decisions. I believe technologies are tools rather than limitations, and understanding fundamental principles is more valuable than being tied to a particular framework.
-
+My experience includes interactive web applications, object-oriented JavaScript projects, and independently developed Django REST backends. I'm also exploring **AI integration and automation**, building on initial experience from my IHK final project. I value clean code, collaboration, constructive feedback, and continuous learning. For me, **technologies are tools, not boundaries**.
 
 ---
 
 ## Architecture mindset
 
-> Good architecture makes responsibilities, dependencies, and decisions easier to understand.
+I care about clear responsibilities, understandable dependencies, meaningful data flows, and pragmatic technical decisions. For me, good architecture is not about adding complexity, but about making systems easier to build, test, and maintain.
 
-<div align="center">
-
-<img src="assets/architecture-flow.gif" width="720" alt="Animated software architecture workflow showing requirements, domain and data modeling, API boundaries, implementation, testing, and iterative review">
-
-</div>
-
-**My priorities:** clear responsibilities · explicit data flows · testable components · pragmatic decisions
 
 ---
 
@@ -96,10 +87,6 @@ I value clean code, constructive collaboration, continuous learning, and thought
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AI Workflows](https://img.shields.io/badge/AI_Workflows-111827?style=for-the-badge&logo=openai&logoColor=white)
 
-<br>
-
-Exploring new technologies, AI integration, and automation while strengthening my understanding of software architecture and fullstack development.
-
 </details>
 
 ---
@@ -110,18 +97,9 @@ Exploring new technologies, AI integration, and automation while strengthening m
 | --- | --- |
 | [**Coderr**](https://github.com/CZX93-BW/coderr-backend) | Solo Django REST backend: offers, orders, reviews, authentication, automated tests |
 | [**KanMind**](https://github.com/CZX93-BW/kanmind-backend) | Solo Kanban REST API: boards, tasks, permissions, Postman regression tests |
-| [**Join**](https://github.com/CZX93-BW/Join) | Angular/Supabase team project (4 developers); my focus: data services, auth, testing |
+| [**Join**](https://github.com/CZX93-BW/Join) | Angular/Supabase team project (4 developers); my focus: data services, authentication, testing |
 | [**Portfolio**](https://github.com/CZX93-BW/portfolio-webseite) · [Live](https://bastian-wollny.de/) | Responsive bilingual Angular site with SCSS and PHP contact endpoint |
 | [**Sharky**](https://github.com/CZX93-BW/SharkyProject) | Solo object-oriented JavaScript Canvas game with responsive controls and tests |
-
----
-
-<div align="center">
-
-**Think in systems. Build with purpose. Keep learning.**
-
-</div>
-
 
 ---
 
