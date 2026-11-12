@@ -22,37 +22,59 @@
 
 ---
 
-### About me
+## About me
 
-I'm an **IHK-certified IT Specialist in Application Development**, currently expanding my fullstack expertise through professional training and hands-on software projects.
+**IHK-certified IT Specialist in Application Development | Fullstack Software Developer**
 
-What fascinates me about software development goes beyond writing code. I want to understand **why something works, how different components interact, and what makes a solution maintainable over time**.
+I'm currently expanding my fullstack skills through professional training, independent projects, and continuous experimentation with new technologies.
 
-I approach challenges with curiosity, analytical thinking, and creativity. I enjoy questioning assumptions, exploring alternative solutions, and making technical decisions based on clear reasoning rather than following a framework simply because it's popular.
+**What drives me**
 
-**Software architecture is particularly important to me.** Whether I'm working on an Angular frontend, designing a REST API, or modeling a relational database, I pay attention to responsibilities, dependencies, data flows, and the bigger picture.
+I don't just want to know that software works — **I want to understand why it works**. I'm fascinated by the way individual components interact and how thoughtful design decisions influence the reliability and maintainability of an application.
 
-My projects range from interactive web applications and object-oriented JavaScript games to independently developed Django REST backends. I also gained initial experience integrating AI through my IHK final project.
+**How I approach problems**
 
-I value **clean code, structured collaboration, constructive feedback, and continuous learning**. I don't believe developers should be limited by their current tech stack. For me, technologies are tools, while understanding the underlying principles is what makes us adaptable.
+I combine **analytical thinking, creativity, and a structured approach**. I enjoy exploring alternatives, questioning assumptions, and understanding the reasoning behind technical decisions.
+
+For me, development is about finding solutions that make sense — not simply choosing the most popular framework or the quickest implementation.
+
+**Architecture as a mindset**
+
+**Software architecture is one of my strongest interests.**
+
+Whether I'm designing REST APIs, structuring Angular applications, or modeling relational databases, I focus on clear responsibilities, understandable dependencies, and meaningful data flows.
+
+I prefer pragmatic architecture over unnecessary complexity.
+
+**What I'm building and learning**
+
+My projects range from interactive web applications and object-oriented JavaScript games to independently developed Django REST backends.
+
+I'm particularly interested in **AI integration, automation, and system design**. My IHK final project gave me initial practical experience developing an AI-powered application.
+
+**What matters to me**
+
+Clean code, constructive collaboration, continuous learning, and the willingness to explore unfamiliar technologies.
+
+**Technologies are tools, not boundaries.**
 
 ---
 
-### Architecture mindset
+## Architecture mindset
 
 > Good architecture makes responsibilities, dependencies, and decisions easier to understand.
 
-```text
-Requirements → Domain & data → Boundaries & APIs → Implementation → Tests
-      ↑                                                        |
-      └────────────────── Review & improve ─────────────────────┘
-```
+<div align="center">
+
+<img src="assets/architecture-flow.gif" width="720" alt="Animated software architecture workflow showing requirements, domain and data modeling, API boundaries, implementation, testing, and iterative review">
+
+</div>
 
 **My priorities:** clear responsibilities · explicit data flows · testable components · pragmatic decisions
 
 ---
 
-### Technologies & tools
+## Technologies & tools
 
 **Frontend**
 
@@ -106,7 +128,7 @@ Exploring new technologies, AI integration, and automation while strengthening m
 
 ---
 
-### Selected projects
+## Selected projects
 
 | Project | Focus |
 | --- | --- |
@@ -115,6 +137,15 @@ Exploring new technologies, AI integration, and automation while strengthening m
 | [**Join**](https://github.com/CZX93-BW/Join) | Angular/Supabase team project (4 developers); my focus: data services, auth, testing |
 | [**Portfolio**](https://github.com/CZX93-BW/portfolio-webseite) · [Live](https://bastian-wollny.de/) | Responsive bilingual Angular site with SCSS and PHP contact endpoint |
 | [**Sharky**](https://github.com/CZX93-BW/SharkyProject) | Solo object-oriented JavaScript Canvas game with responsive controls and tests |
+
+---
+
+<div align="center">
+
+**Think in systems. Build with purpose. Keep learning.**
+
+</div>
+
 
 ---
 
