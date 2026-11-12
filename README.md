@@ -1,30 +1,60 @@
-# Hi, ich bin Bastian Wollny
 
-<!-- Optional: Replace this placeholder with a personal image or banner. -->
-<!-- <img src="./assets/profile-banner.png" alt="Bastian Wollny - Fullstack eveloper" width="100%" /> -->
+<div align="center">
 
-## Fullstack developer | KI & Automation | Clean Code Enthusiast
+# Bastian Wollny
 
-Ich entwickle Webanwendungen mit Blick für Struktur, Wartbarkeit und echte Nutzbarkeit.  
-Mein Fokus liegt auf **Frontend**, **Backend**, **Schnittstellen**, **Datenbanken** und zunehmend auf **KI-gestützten Automationen**.
+**Fullstack Software Developer** · **IHK-certified IT Specialist in Application Development**
 
-Ich mag Code, der nicht nur funktioniert, sondern auch nach drei Wochen noch verständlich ist.
+*Curious by nature. Architecture-minded. Technology-agnostic.*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1300&color=33D6C1&center=true&vCenter=true&width=850&height=50&lines=Understand+the+problem+before+writing+code.;Think+in+systems.+Design+clear+boundaries.;Frameworks+change.+Principles+stay.;Build.+Test.+Refactor.+Learn." alt="Animated development principles" />
+
+<br>
+
+<a href="https://bastian-wollny.de/">
+  <img src="https://img.shields.io/badge/Portfolio-00A88F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/bastian-wollny/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
 
 ---
 
-## About Me
+### About me
 
-Ich bin Fachinformatiker für Anwendungsentwicklung und baue mir aktuell ein starkes Fullstack-Profil auf.  
-Besonders spannend finde ich Projekte, bei denen saubere Oberflächen, sinnvolle Datenflüsse und automatisierte Prozesse zusammenkommen.
+I'm an **IHK-certified IT Specialist in Application Development**, currently expanding my fullstack expertise through professional training and hands-on software projects.
 
-Aktuell vertiefe ich meine Skills in modernen Webtechnologien, Angular, TypeScript, React, Node.js und KI-nahen Workflows.  
-Mein Ziel: robuste Anwendungen entwickeln, die Menschen Arbeit abnehmen statt neue Komplexität zu erzeugen.
+What fascinates me about software development goes beyond writing code. I want to understand **why something works, how different components interact, and what makes a solution maintainable over time**.
+
+I approach challenges with curiosity, analytical thinking, and creativity. I enjoy questioning assumptions, exploring alternative solutions, and making technical decisions based on clear reasoning rather than following a framework simply because it's popular.
+
+**Software architecture is particularly important to me.** Whether I'm working on an Angular frontend, designing a REST API, or modeling a relational database, I pay attention to responsibilities, dependencies, data flows, and the bigger picture.
+
+My projects range from interactive web applications and object-oriented JavaScript games to independently developed Django REST backends. I also gained initial experience integrating AI through my IHK final project.
+
+I value **clean code, structured collaboration, constructive feedback, and continuous learning**. I don't believe developers should be limited by their current tech stack. For me, technologies are tools, while understanding the underlying principles is what makes us adaptable.
 
 ---
 
-## Tech Stack
+### Architecture mindset
 
-### Sicher im Einsatz
+> Good architecture makes responsibilities, dependencies, and decisions easier to understand.
+
+```text
+Requirements → Domain & data → Boundaries & APIs → Implementation → Tests
+      ↑                                                        |
+      └────────────────── Review & improve ─────────────────────┘
+```
+
+**My priorities:** clear responsibilities · explicit data flows · testable components · pragmatic decisions
+
+---
+
+### Technologies & tools
+
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,109 +62,64 @@ Mein Ziel: robuste Anwendungen entwickeln, die Menschen Arbeit abnehmen statt ne
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Backend & Infrastruktur im Aufbau
+**Backend & APIs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Databases**
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111)
+
+**Workflow & quality**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Automated Testing](https://img.shields.io/badge/Automated_Testing-334155?style=for-the-badge)
 
-### In Vertiefung
+<details>
+<summary><strong>Currently exploring & learning</strong></summary>
 
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-111827?style=for-the-badge&logo=openai&logoColor=white)
 
-### Interessensfelder
+<br>
 
-![AI](https://img.shields.io/badge/KI_Workflows-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-00C9A7?style=for-the-badge&logo=n8n&logoColor=111111)
-![APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Databases](https://img.shields.io/badge/Datenbanken-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Exploring new technologies, AI integration, and automation while strengthening my understanding of software architecture and fullstack development.
 
----
-
-## Was ich gerne baue
-
-- Saubere Weboberflächen mit durchdachter UX
-- Backend-Logik, APIs und Datenbankstrukturen
-- Automatisierungen für wiederkehrende Prozesse
-- Portfolio-Projekte mit echtem Lern- und Nutzwert
-- Tools, die komplexe Abläufe verständlicher machen
+</details>
 
 ---
 
-## Ausgewählte Projekte
+### Selected projects
 
-| Projekt | Kurzbeschreibung | Stack |
-| --- | --- | --- |
-| **Portfolio-Webseite** | Persönliche Portfolio-Seite mit Angular, SCSS-Struktur und responsive Design | Angular, TypeScript, SCSS |
-| **Sharky** | Jump-and-Run / Unterwasser-Game mit Canvas-Logik und eigenem Spielsystem | JavaScript, HTML, CSS |
-| **Pokédex** | API-basiertes Frontend-Projekt mit Suche, Dialogen, Caching und Detailansichten | JavaScript, REST API |
-| **Join** | Eine responsive Fullstack-Anwendung zur strukturierten Planung, Zuweisung und Bearbeitung von Aufgaben im Team. | Angular, Typescript, SCSS, Supabase |
-
-
----
-
-## Arbeitsweise
-
-```txt
-Struktur vor Tempo.
-Lesbarkeit vor Show.
-Funktion vor Schnickschnack.
-Aber ein bisschen Stil darf sein.
-```
-
-Ich arbeite gerne mit klaren Komponenten, kleinen Funktionen, nachvollziehbaren Commits und einer Architektur, die nicht direkt beim zweiten Feature ins Wanken gerät.
-
----
-
-## GitHub Fokus
-
-| Bereich | Schwerpunkt |
+| Project | Focus |
 | --- | --- |
-| **Frontend** | HTML, CSS, SCSS, JavaScript, Angular, TypeScript |
-| **Backend** |Python, Django, DRF, PHP, SQL-Lite, Supabase, SQL, Node.js Basics, REST APIs |
-| **Qualität** | Clean Code, Barrierefreiheit, responsive Layouts |
-| **Lernfokus** | Fullstack-Architektur, KI-Workflows, Automation |
+| [**Coderr**](https://github.com/CZX93-BW/coderr-backend) | Solo Django REST backend: offers, orders, reviews, authentication, automated tests |
+| [**KanMind**](https://github.com/CZX93-BW/kanmind-backend) | Solo Kanban REST API: boards, tasks, permissions, Postman regression tests |
+| [**Join**](https://github.com/CZX93-BW/Join) | Angular/Supabase team project (4 developers); my focus: data services, auth, testing |
+| [**Portfolio**](https://github.com/CZX93-BW/portfolio-webseite) · [Live](https://bastian-wollny.de/) | Responsive bilingual Angular site with SCSS and PHP contact endpoint |
+| [**Sharky**](https://github.com/CZX93-BW/SharkyProject) | Solo object-oriented JavaScript Canvas game with responsive controls and tests |
 
 ---
 
-## Socials
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bastian--wollny.de-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://bastian-wollny.de)
-[![GitHub](https://img.shields.io/badge/GitHub-CZX93--BW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CZX93-BW)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bastian_Wollny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastian-wollny)
-[![Xing](https://img.shields.io/badge/Xing-Bastian_Wollny-006567?style=for-the-badge&logo=xing&logoColor=white)](#)
+**Think in systems. Build with purpose. Keep learning.**
 
----
-
-## Aktueller Fokus
-
-- Fullstack-Portfolio weiter ausbauen
-- Angular und TypeScript sauber vertiefen
-- Vertiefung von Python, Django und DRF
-- React und Node.js praxisnah stärken
-- KI-Tools und Automationen sinnvoll in Entwickler-Workflows integrieren
-- Bewerbungsreife Projekte mit echtem Qualitätsanspruch fertigstellen
-
----
-
-<p align="center">
-  <strong>Clean Code. Klare Struktur. Neugier im Kopf.</strong>
-</p>
+</div>
