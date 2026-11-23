@@ -24,7 +24,7 @@
 
 ## About me
 
-I'm an **IHK-certified IT Specialist in Application Development**, currently expanding my fullstack experience through professional training and hands-on projects. Software development fascinates me because I want to understand not only how something works, but why it works and how its components interact.
+I'm an **IHK-certified IT Specialist in Application Development**, currently expanding my fullstack experience through professional training and hands-on projects. Software development fascinates me because I want to understand not only how something works, but why it works and how its components interact.     
 
 My approach combines **analytical thinking, creativity, and structured problem-solving**. I enjoy exploring alternatives, questioning assumptions, and making well-reasoned technical decisions. I value solutions that remain understandable and maintainable beyond their initial implementation.
 
