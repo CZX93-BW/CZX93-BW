@@ -107,4 +107,4 @@ I care about clear responsibilities, understandable dependencies, meaningful dat
 
 **Think in systems. Build with purpose. Keep learning.**
 
-</div>
+</div> 
